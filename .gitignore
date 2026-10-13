@@ -1,0 +1,9 @@
+.DS_Store
+~$*
+*.dmp
+*.mem
+*.raw
+*.vmem
+# raw unredacted screenshots (contain browser chrome / identity) — never publish
+_raw/
+**/_raw/
